@@ -2,7 +2,6 @@
 
 I'm a Computer Science graduate with experience in Data Science & Engineering, interested in high-performance computing, data science and data-oriented design.
 
-- **Currently Working On:** Distributed File Systems [[Donut](https://github.com/tomas-ramos21/Donut)] and Cluster Computing [[Cookie](https://github.com/tomas-ramos21/Cookie)]
 - **Fun Fact:** I worked professionally as a 👨🏼‍🍳 for 6 years before coming to IT
 - **Pronouns:** He/Him
 
